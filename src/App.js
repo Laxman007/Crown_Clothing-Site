@@ -6,8 +6,6 @@ import ShopPage from './pages/shop/shop.component.jsx';
 import Header from './Components/header/header.component.jsx';
 import SignInAndSignUpPage from './pages/sign-in_and_sign-up/sign-in_and_sign-up.component';
 
-
-
 function App() { 
   return (
     <div className="App">
