@@ -7,9 +7,6 @@ import Header from './Components/header/header.component.jsx';
 import SignInAndSignUpPage from './pages/sign-in_and_sign-up/sign-in_and_sign-up.component';
 
 
-
-
-
 function App() { 
   return (
     <div className="App">
